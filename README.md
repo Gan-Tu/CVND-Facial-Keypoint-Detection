@@ -15,10 +15,6 @@ _Facial keypoints_ include points around the eyes, nose, and mouth on a face and
 
 ## Getting the Files
 
-### Download the Code
-
-You can download this folder of code [here](https://tugan0329.bitbucket.io/downloads/udacity/cv/p1-facial-keypoint-detection.zip)
-
 ### Data
 
 All of the data you'll need to train a neural network should be placed in the subdirectory `data`. To get the data, run the following commands in your terminal:
